@@ -1,0 +1,10 @@
+.card{
+  background-image: url("https://t4.ftcdn.net/jpg/01/99/18/51/360_F_199185126_w0XokiZR02DNyjLVzha9W04Jm5vWFdr2.jpg");
+  background-size: contain;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+body{
+  background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(176,229,208,1) 42%, rgba(92,202,238,0.41) 93.6% );
+}
